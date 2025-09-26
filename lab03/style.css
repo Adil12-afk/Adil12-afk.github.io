@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #0056b3;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+#my-name {
+    border: 2px solid rgb(0, 89, 255);
+    display: inline-block;
+}
+
+img {
+    border-radius: 50%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+ol > li {
+    background-color: #f9f9f9;
+    border-left: 4px solid #007bff;
+}
+
+a {
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #81C784;
+    text-decoration: underline;
+}
+
+p {
+    line-height: 1.8;
+}
+
+/* Color backgrounds for hobby list */
+.red {
+    background-color: #ffcccc;
+}
+
+.orange {
+    background-color: #16da40;
+}
+
+.yellow {
+    background-color: #ff1313;
+}
+
+.green {
+    background-color: #e6ffcc;
+}
+
+.blue {
+    background-color: #cceeff;
+}
+
+.indigo {
+    background-color: #e6ccff;
+}
+
+.violet {
+    background-color: #ffcce6;
+}
+
+.contact-icon {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
