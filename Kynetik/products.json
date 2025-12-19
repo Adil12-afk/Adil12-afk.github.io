@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Unisex Tech Hoodie",
+    "category": "Wear",
+    "price": 30.99,
+    "description": "Premium athletic hoodie designed for comfort and warmth."
+  },
+  {
+    "id": 2,
+    "name": "Track Suits",
+    "category": "Wear",
+    "price": 49.99,
+    "description": "Complete track suit set for training and lifestyle."
+  },
+  {
+    "id": 3,
+    "name": "Sport Shoes",
+    "category": "Wear",
+    "price": 79.99,
+    "description": "High-performance running shoes with superior grip."
+  },
+  {
+    "id": 4,
+    "name": "Athletic Caps",
+    "category": "Wear",
+    "price": 10.99,
+    "description": "Lightweight cap to keep you cool during workouts."
+  },
+  {
+    "id": 5,
+    "name": "Premium Dumbbells Set",
+    "category": "Gear",
+    "price": 249.99,
+    "description": "Pro-grade weights engineered for focused strength training."
+  },
+  {
+    "id": 6,
+    "name": "Resistance Bands Kit",
+    "category": "Gear",
+    "price": 29.99,
+    "description": "Versatile bands for stretching and resistance exercises."
+  },
+  {
+    "id": 7,
+    "name": "Yoga Mats",
+    "category": "Gear",
+    "price": 24.99,
+    "description": "Non-slip comfortable mat for yoga and floor exercises."
+  },
+  {
+    "id": 8,
+    "name": "Lifting Gloves",
+    "category": "Gear",
+    "price": 15.99,
+    "description": "Protective gloves for better grip and hand safety."
+  },
+  {
+    "id": 9,
+    "name": "Breakfast",
+    "category": "Fuel",
+    "price": 30.99,
+    "description": "Nutritious oatmeal and fruit bowl to start your day."
+  },
+  {
+    "id": 10,
+    "name": "Lunch",
+    "category": "Fuel",
+    "price": 49.99,
+    "description": "Balanced chicken and veggie meal for midday energy."
+  },
+  {
+    "id": 11,
+    "name": "Dinner",
+    "category": "Fuel",
+    "price": 79.99,
+    "description": "High-protein roasted chicken dinner for recovery."
+  },
+  {
+    "id": 12,
+    "name": "Snacks",
+    "category": "Fuel",
+    "price": 10.99,
+    "description": "Delicious chocolate chip protein cookie for quick energy."
+  }
+]
